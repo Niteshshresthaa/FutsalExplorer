@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "458357321435",
+    "project_id": "futsalexplorer",
+    "storage_bucket": "futsalexplorer.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:458357321435:android:c0c8c06b56d7daed7da6fe",
+        "android_client_info": {
+          "package_name": "com.example.futsalexplorer"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDic_lsNo2_SBYBY320Yzmnb_aqsRbUMVw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
